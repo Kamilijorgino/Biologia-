@@ -9,7 +9,7 @@
   <script src='main.js'></script>
   </head>
   <body>
-  <header><p><img id="TITULOIMAGEM" src="logo.jpeg" alt="DESCRICAO IMAGEM"></p>
+  <header><p><img id="TITULOIMAGEM" src="logo.jpeg" alt="DESCRICAOIMAGEM"></p>
   <nav>
   <ul id="lista01">
   <li><a target="_blank" href="index.html">Home</li>
@@ -19,7 +19,7 @@
  </nav>
  </header>
  <main>
- <h1> Trabalho de Biologia</h1>
+ <h1> Trabalho de biologia</h1>
  <div O desenvolvimento sustentável é um conceito que busca conciliar o progresso socioeconômico e político com a preservação ambiental e o uso racional dos recursos naturais. O objetivo é atender às necessidades da geração atual sem comprometer a capacidade de atender às necessidades das gerações, Algumas ações que podem ser adotadas para promover o desenvolvimento sustentável são:
 Economizar energia
 Reduzir o consumo de água
