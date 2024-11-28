@@ -19,9 +19,18 @@
  </nav>
  </header>
  <main>
- <h1> TITULO DA PAGINA</h1>
- <div class="PRIMEIROPARAGRAFO">
- <h3> TITULO DO TEXTO</h<3>
+ <h1> Trabalho de Biologia</h1>
+ <div O desenvolvimento sustentável é um conceito que busca conciliar o progresso socioeconômico e político com a preservação ambiental e o uso racional dos recursos naturais. O objetivo é atender às necessidades da geração atual sem comprometer a capacidade de atender às necessidades das gerações, Algumas ações que podem ser adotadas para promover o desenvolvimento sustentável são:
+Economizar energia
+Reduzir o consumo de água
+Utilizar transportes coletivos ou bicicletas
+Plantar árvores e plantas
+Adotar embalagens e sacolas sustentáveis
+Evitar o desperdício de comida
+Reduzir a quantidade de impressões
+Não jogar lixo nas ruas
+Separar o lixo, adotando a coleta. seletivafuturasclass="PRIMEIROPARAGRAFO">
+ <h3> </h<3>
  <p><i></i>b>TEXTO</b<>/i<>/p>
  <ul id="lista02">
  <li>ITEM 01</li>
