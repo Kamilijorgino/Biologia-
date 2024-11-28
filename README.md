@@ -13,7 +13,7 @@
   <nav>
   <ul id="lista01">
   <li><a target="_blank" href="index.html">Home</li>
-  <li><a target="_blank"href="http://www.consultaescolas.pr.gov.br/">Site do Colégio 
+  <li><a target="_blank"href="http://www.consultaescolas.pr.gov.br/">Site do Colégio<
 <li><a target="_blank" href="https://www.facebook.com/profile.php?id=10009582499964">facebook</li<>/a>
  </ul>
  </nav>
